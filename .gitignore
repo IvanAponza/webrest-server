@@ -1,0 +1,6 @@
+node_modules/
+keys/
+.env
+.DS_Store
+/postgres
+dist/
